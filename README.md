@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @endless7377
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning some languages
-- 💞️ I’m looking to collaborate on website making
+- 🌱 I’m currently learning react and python.
+- 🌱 I have learned Html,Css,Javascript.
+- 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me anantgoel7377@gmail.com 
 
 <!---
